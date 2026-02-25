@@ -17,4 +17,4 @@ It performs basic operations:
 2. Run command:
 
 ```bash
-python calculator.py
+python src/calculator.py
